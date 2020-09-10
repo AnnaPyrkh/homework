@@ -1,0 +1,3 @@
+unicorn LCC 12000 6000
+astarot LLP 666 333
+basilisc LTD 100000 999000
