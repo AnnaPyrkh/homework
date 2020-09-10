@@ -1,0 +1,5 @@
+first string
+second string contains more words
+third string rhymes with "bird's sing"
+fourth string makes me feel sick
+fifth string is the closing one
